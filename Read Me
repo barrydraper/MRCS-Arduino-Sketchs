@@ -1,0 +1,4 @@
+This is an alternate sketch for the MRCS Dual Semaphore Controler Board.  It allows slow movement with different speeds depending on direction,
+and has an optional Automatic Block Signal mode that includes logic compatible with occupancy detectors such as the MRCS cpOD.
+
+Refer to https://www.modelrailroadcontrolsystems.com/dual-semaphore-servo-controller/
